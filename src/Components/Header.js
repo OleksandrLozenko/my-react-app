@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Navbar, Nav, Container, NavbarCollapse, NavbarToggle } from 'react-bootstrap';
-import logo from '../assets/logo192.png';
+import logo from '../assets/logo.png';
 
 export default class Header extends Component {
     render() {
@@ -18,7 +18,7 @@ export default class Header extends Component {
                     variant='dark'
                 >
                     <Container>
-                        <Navbar.Brand href='/'>
+                        <Navbar.Brand>
                             <img 
                                 src={logo} 
                                 height='40' 
