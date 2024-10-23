@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Safarireisid",
+        "description": "Kogege looduse põnevust meie professionaalselt juhitud safarireisidel Keenias, Tansaanias ja Lõuna-Aafrikas. Näidake imetlusväärseid Suuri Viit—lõvid, leopardid, elevandid, ninasarvikud ja buforeid—samal ajal kui meie teadlikud giidid tutvustavad ainulaadseid ökosüsteeme. Meie reisid hõlmavad mugavaid majutusi ja maitsvaid eineid.",
+        "price": "$1500 inimese kohta",
+        "image": "https://www.go2africa.com/wp-content/uploads/2018/02/Safari.jpg.webp"
+    },
+    {
+        "title": "Kultuurikogemused",
+        "description": "Sukelduge kohalikes traditsioonides meie kultuurikogemustega. Külastage autentseid külasid, osalege traditsioonilistes tantsuetteastetes ja võtke osa kokandustundidest, et õppida valmistama kohalikke roogasid. See ainulaadne kogemus võimaldab teil luua sideme kohaliku kogukonnaga ja mõista nende eluviisi.",
+        "price": "$300 inimese kohta",
+        "image": "https://www.andbeyond.com/wp-content/uploads/sites/5/phinda-cultural-community-zulu-dancers.jpg"
+    },
+    {
+        "title": "Rannapuhkused",
+        "description": "Puhake Zanzibari või Seychellide puhtatel randadel. Meie rannapuhkuse paketid pakuvad luksuslikke kuurorte, kust avanevad hingematvad ookeanivaated, kõik-ühes-üritused ja juurdepääs põnevatele veespordialadele. Nautige rahulikku atmosfääri ja laske end hellitada spaa protseduuridega, et saavutada maksimaalne lõõgastus.",
+        "price": "$2000 inimese kohta",
+        "image": "https://content.r9cdn.net/rimg/dimg/e1/6e/f59cbe52-city-1557-1661ba47712.jpg?width=1366&height=768&xhint=2066&yhint=1423&crop=true"
+    },
+    {
+        "title": "Seiklusreisid",
+        "description": "Liituge meiega põnevate tegevuste jaoks, nagu matkamine, köisrajad ja bungee-hüpped Aafrika kaunites paikades. Meie seiklusreisid on mõeldud adrenaliiniotsijatele, ühendades hingematva maastiku ja võrratud kogemused. Iga reisi juhib kogenud giid, et tagada ohutus ja nauding.",
+        "price": "$800 inimese kohta",
+        "image": "https://d3rrv2sw40mc6u.cloudfront.net/785/adventure_tours.jpg"
+    },
+    {
+        "title": "Loodusfotograafia Reisid",
+        "description": "Taaselustage hingematvaid loodusehetki meie spetsialiseeritud fotograafia reisidel, mida juhivad professionaalsed fotograafid. Õppige näpunäiteid ja tehnikaid oma fotograafiaoskuste parandamiseks, uurides mõningaid Aafrika ikoonilisemaid looduse sihtkohti.",
+        "price": "$1200 inimese kohta",
+        "image": "https://blog.motifphotos.com/hubfs/Imported_Blog_Media/iStock-647803014-1024x683-2.jpg"
+    }
+]

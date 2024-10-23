@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Isikupärastatud Teenus",
+        "image": "https://www.svgrepo.com/show/454018/service.svg",
+        "text": "Loome kohandatud reisiplaanid, lähtudes kliendi isiklikest eelistustest, rikastades nende reisikogemust.",
+        "link": "",
+        "caption": "Loe rohkem"
+    },
+    {
+        "id": 2,
+        "title": "Jätkusuutlik Turism",
+        "image": "https://www.svgrepo.com/show/420455/bag-holiday-tourism.svg",
+        "text": "Prioriseerime keskkonnasõbralikke reisivõimalusi, mis kõnetavad keskkonnateadlikke reisijaid.",
+        "link": "",
+        "caption": "Loe rohkem"
+    },
+    {
+        "id": 3,
+        "title": "Kohalikud Ühendused",
+        "image": "https://www.svgrepo.com/show/483987/personal-connections-3.svg",
+        "text": "Koostöö kohalike giididega rikastab meie klientide kogemusi ja toetab kohalikke majandusi.",
+        "link": "",
+        "caption": "Loe rohkem"
+    },
+    {
+        "id": 4,
+        "title": "Pakettide Mitmekesisus",
+        "image": "https://www.svgrepo.com/show/381231/category-variety-random-shuffle.svg",
+        "text": "Koostöö kohalike giididega rikastab meie klientide kogemusi ja toetab kohalikke majandusi.",
+        "link": "",
+        "caption": "Loe rohkem"
+    },
+    {
+        "id": 5,
+        "title": "Ekspertide Meeskond",
+        "image": "https://www.svgrepo.com/show/483919/team-3.svg",
+        "text": "Meie mitmekesine reisipakkumiste valik katab erinevaid huve, alates seiklustest kuni kultuurini.",
+        "link": "",
+        "caption": "Loe rohkem"
+    },
+    {
+        "id": 6,
+        "title": "Paindlikud Poliitikad",
+        "image": "https://www.svgrepo.com/show/307687/business-insurance-business-insured-business.svg",
+        "text": "Pakume paindlikke broneerimis- ja tühistamisvõimalusi, muutes reisiplaanimise klientide jaoks lihtsamaks.",
+        "link": "",
+        "caption": "Loe rohkem"
+    }
+]
