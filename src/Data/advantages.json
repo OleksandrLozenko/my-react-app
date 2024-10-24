@@ -4,6 +4,7 @@
         "title": "Isikupärastatud Teenus",
         "image": "https://www.svgrepo.com/show/454018/service.svg",
         "text": "Loome kohandatud reisiplaanid, lähtudes kliendi isiklikest eelistustest, rikastades nende reisikogemust.",
+        "description_all": "Meie isikupärastatud teenus tähendab, et iga reisikava on kohandatud vastavalt kliendi ainulaadsetele soovidele ja vajadustele. Meie meeskond töötab tihedalt koos teiega, et mõista teie eelistusi, olgu need siis seikluslikud tegevused, kultuurilised ekskursioonid või lõõgastavad puhkused. Meie eesmärk on tagada, et iga reis oleks mitte ainult meeldejääv, vaid ka täiesti teie maitse järgi.",
         "link": "",
         "caption": "Loe rohkem"
     },
@@ -12,6 +13,7 @@
         "title": "Jätkusuutlik Turism",
         "image": "https://www.svgrepo.com/show/420455/bag-holiday-tourism.svg",
         "text": "Prioriseerime keskkonnasõbralikke reisivõimalusi, mis kõnetavad keskkonnateadlikke reisijaid.",
+        "description_all": "Meie jätkusuutliku turismi algatused keskenduvad keskkonna kaitsmisele ja kohalike kultuuride säilitamisele. Meie reisipakkumised sisaldavad keskkonnasõbralikke majutusvõimalusi, kohalikke ettevõtteid toetavaid tegevusi ja ekskursioone, mis aitavad kaasa kohalike ökosüsteemide säilitamisele. Meie eesmärk on tagada, et iga reis ei kahjusta loodust, vaid rikastab seda.",
         "link": "",
         "caption": "Loe rohkem"
     },
@@ -20,6 +22,7 @@
         "title": "Kohalikud Ühendused",
         "image": "https://www.svgrepo.com/show/483987/personal-connections-3.svg",
         "text": "Koostöö kohalike giididega rikastab meie klientide kogemusi ja toetab kohalikke majandusi.",
+        "description_all": "Meie koostöö kohalike giididega tagab, et meie kliendid saavad autentse ja rikkaliku kogemuse sihtkohas. Kohalikud giidid jagavad oma teadmisi ja kultuurilisi nüansse, pakkudes sügavat ülevaadet piirkonna ajaloost, traditsioonidest ja tavadest. Samuti toetame kohalikke ettevõtteid, mis aitab tugevdada kohalikke majandusi ja säilitada kultuuripärandit.",
         "link": "",
         "caption": "Loe rohkem"
     },
@@ -27,7 +30,8 @@
         "id": 4,
         "title": "Pakettide Mitmekesisus",
         "image": "https://www.svgrepo.com/show/381231/category-variety-random-shuffle.svg",
-        "text": "Koostöö kohalike giididega rikastab meie klientide kogemusi ja toetab kohalikke majandusi.",
+        "text": "Meie mitmekesised paketid pakuvad erinevaid võimalusi, et rahuldada igasuguseid huve ja eelistusi.",
+        "description_all": "Meie pakettide mitmekesisus katab laia valikut tegevusi ja elamusi, alates seikluslikest matkadest ja veespordist kuni kultuuriliste ekskursioonide ja kohalike festivalide külastamiseni. Iga paketis on hoolikalt valitud tegevused ja külastuspunktid, et pakkuda tasakaalu lõbususe ja hariduse vahel, mistõttu iga reis meiega on tõeliselt unustamatu.",
         "link": "",
         "caption": "Loe rohkem"
     },
@@ -36,6 +40,7 @@
         "title": "Ekspertide Meeskond",
         "image": "https://www.svgrepo.com/show/483919/team-3.svg",
         "text": "Meie mitmekesine reisipakkumiste valik katab erinevaid huve, alates seiklustest kuni kultuurini.",
+        "description_all": "Meie ekspertide meeskond koosneb kogenud reisijatest, giididest ja kultuuriinimestest, kes töötavad koos, et luua parimad reisikogemused. Meie tiim on pidevalt kursis uusimate trendidega turismis ja kohalike kogukondade vajadustega, et pakkuda kvaliteetseid ja rahuldustpakkuvaid elamusi. Meie eesmärk on, et iga reis oleks mitte ainult nauditav, vaid ka hariv.",
         "link": "",
         "caption": "Loe rohkem"
     },
@@ -44,6 +49,7 @@
         "title": "Paindlikud Poliitikad",
         "image": "https://www.svgrepo.com/show/307687/business-insurance-business-insured-business.svg",
         "text": "Pakume paindlikke broneerimis- ja tühistamisvõimalusi, muutes reisiplaanimise klientide jaoks lihtsamaks.",
+        "description_all": "Meie paindlikud poliitikad annavad klientidele rahu, teades, et nad saavad oma reisiplaane hõlpsasti kohandada. Olgu tegemist viimase hetke muudatustega või ootamatute olukordadega, meie tühistamispoliitikad on loodud, et aidata kliente igas olukorras. Meie eesmärk on tagada, et iga reisijate kogemus oleks võimalikult sujuv ja muretu.",
         "link": "",
         "caption": "Loe rohkem"
     }
