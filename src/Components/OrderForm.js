@@ -57,8 +57,18 @@ export default function OrderForm() {
             setValidated(true); 
             setSubmitted(true);
             setErrorMessages([]);
+            clearForm();
         } 
     };
+
+    function clearForm() {
+        setFormData({ 
+            name: '', 
+            email: '', 
+            service: '', 
+            comments: '' 
+        });
+    }
 
     const selectedPrice = 
     formData.service ? 
@@ -112,7 +122,7 @@ export default function OrderForm() {
 
                 <Form.Group as={Row} className="mb-3" controlId="formService"> 
                     <Form.Label column sm={2}>Teenindus</Form.Label> 
-                    <Col sm={10}> 
+                    <Col sm={5}> 
                         <Form.Control 
                             as="select" 
                             name="service" 
@@ -126,9 +136,20 @@ export default function OrderForm() {
                             <option value="Beach">Rannapuhkus</option>
                             <option value="Adventure">Seiklusreisid</option>
                             <option value="Photography">Metsloomade fotograafia ringkäigud</option>
-                        </Form.Control> 
-                    </Col> 
-                </Form.Group> 
+                        </Form.Control>
+                    </Col>
+                    <Form.Label column sm={1}>Kuupäev</Form.Label>
+                    <Col sm={3}>
+                        <Form.Control 
+                            type="date" 
+                            name="date" 
+                            value={formData.date} 
+                            onChange={handleChange} 
+                            required 
+                        />
+                    </Col>
+                </Form.Group>
+
 
                 <Form.Group as={Row} className="mb-3" controlId="formComments"> 
                     <Form.Label column sm={2}>Kommentaarid</Form.Label> 

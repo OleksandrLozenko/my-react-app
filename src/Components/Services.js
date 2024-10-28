@@ -19,7 +19,7 @@ export default class ServicesCarousel extends Component {
                                     />
                                     <Card.Body>
                                         <Card.Title>{service.title}</Card.Title>
-                                        <Card.Text>{service.description}</Card.Text>
+                                        <Card.Text style={{height:"100px"}}>{service.description}</Card.Text>
                                         <Button 
                                             variant="primary" 
                                             style={{
@@ -34,7 +34,6 @@ export default class ServicesCarousel extends Component {
                                             }}>
                                                 <a href='#order' style={{ textDecoration: 'none', color: 'white' }}>{service.price}</a>
                                             </Button>
-
                                     </Card.Body>
                                 </Card>
                             </Carousel.Item>
